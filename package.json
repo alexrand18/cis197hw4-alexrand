@@ -1,0 +1,41 @@
+{
+  "name": "cis197hw4-alexrand",
+  "version": "1.0.0",
+  "description": "Homework 4 (React App) for CIS 197 at UPENN",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexrand18/cis197hw4-alexrand.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexrand18/cis197hw4-alexrand/issues"
+  },
+  "homepage": "https://github.com/alexrand18/cis197hw4-alexrand#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "bootstrap": "^4.6.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "parcel-bundler": "^1.12.4",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.0",
+    "react-bootstrap-icons": "^1.3.0",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.2",
+    "style-loader": "^2.0.0",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4 || ^3 || ^2.3.0 || ^1.7.0"
+  }
+}
